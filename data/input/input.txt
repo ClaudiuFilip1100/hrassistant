@@ -5,7 +5,7 @@ Intrebarea 2: Pot avea evaluare si internship-ul online?
 Raspuns 2: Evaluarea poate avea loc online, dar internship-urile au loc la sediul ASSIST. 
 
 Intrebarea 3: Este internship-ul gratis? 
- Raspuns 3: Da, internship-ul nu prezinta nici un cost din partea participantilor.  
+Raspuns 3: Da, internship-ul nu prezinta nici un cost din partea participantilor.  
 
 Intrebarea 4: Cine poate aplica ? 
 Raspuns 4: Pot aplica elevi ce au sustinut examenul de bacalaureat, studenti la orice specializare si persoane ce doresc sa se reorienteze din punct de vedere profesional. 
@@ -230,4 +230,3 @@ Raspuns 77: Nu neaparat, dar ideal este ca dupa participarea la unul sau doua in
 
 Intrebarea 78: Pot sa aleg la ce proiect imi doresc sa lucrez ? 
 Raspuns 78: Vei lucra la un proiect de invatare special creat pentru internship. 
-
