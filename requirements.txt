@@ -5,4 +5,3 @@ tensorflow
 tensorflow-addons
 nltk
 scikit-learn
-spacy
