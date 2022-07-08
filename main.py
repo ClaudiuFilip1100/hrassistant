@@ -321,7 +321,7 @@ for epoch in range(EPOCHS):
                                                    batch,
                                                    batch_loss.numpy()))
   # saving (checkpoint) the model every 2 epochs
-  if (epoch + 1) % 2 == 0:
+  if (epoch + 1) == 250:
     checkpoint.save(file_prefix = checkpoint_prefix)
 
   print('Epoch {} Loss {:.4f}'.format(epoch + 1,
@@ -385,4 +385,6 @@ def predict_sentence(sentence):
   print('Input: %s' % (sentence))
   print('Predicted output: {}'.format(result))
 
+# restoring the latest checkpoint in checkpoint_dir
+checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
 predict_sentence('Este internship-ul gratis?')
