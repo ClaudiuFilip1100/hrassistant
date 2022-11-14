@@ -1,0 +1,396 @@
+[
+  {
+    "tag": "internship_individual",
+    "patterns": [
+      "se fac si internship-uri individuale",
+      "va fi doar internship in echipa sau poate fi si individual",
+      "pot sa-mi aleg eu cand doresc sa fac internship-ul"
+    ],
+    "responses": [
+      "Internship-ul individual are loc pe tot parcursul anului. Internship-ul de grup are loc doar pe parcursul lunilor iulie si august, structurate in doua sesiuni. "
+    ]
+  },
+  {
+    "tag": "online",
+    "patterns": [
+      "pot avea evaluare si internship-ul online",
+      "faptul ca eu in acest moment ma aflu in republica moldova nu va influenta etapele de selectie si interviurile hr si tehnic",
+      "internshipul va avea loc in online sau la sediul companiei",
+      "cum anume va fi internshipul (online/offline)",
+      "este nevoie de relocare la suceava",
+      "este totul online",
+      "sunt programele accesibile online",
+      "putem sa alegem daca internshipul sa fie online sau offline"
+    ],
+    "responses": ["Internship-urile se desfășoară la sediul ASSIST."]
+  },
+  {
+    "tag": "gratis",
+    "patterns": ["este internshipul gratis", "internshipurile sunt gratis"],
+    "responses": [
+      "Internship-urile nu prezintă nici un cost din partea participanților."
+    ]
+  },
+  {
+    "tag": "canditati_target",
+    "patterns": [
+      "cine poate aplica",
+      "trebuie neaparat sa fiu student la facultatile mentionate",
+      "daca am terminat sau sunt in an mai mic, pot totusi sa aplic",
+      "cine poate aplica la assist academy"
+    ],
+    "responses": [
+      "Pot aplica elevi ce au susținut examenul de bacalaureat, studenți la orice specializare și persoane ce doresc să se reorienteze din punct de vedere profesional."
+    ]
+  },
+  {
+    "tag": "indatoriri",
+    "patterns": [
+      "care ar fi indatoririle si responsabilitatile mele daca sunt acceptata",
+      "care sunt urmatorii pasi daca sunt acceptata",
+      "ce va trebui sa fac daca sunt acceptata"
+    ],
+    "responses": [
+      "Cele mai importante responsabilități a celor selectați pentru internship sunt: parcurgerea materialelor de studiu oferite de noi, menținerea unei linii de comunicare cu noi, participarea în mod activ și colaborativ la internship."
+    ]
+  },
+  {
+    "tag": "devreme",
+    "patterns": [
+      "exista o optiune de internship mai devreme",
+      "e posibil să incep internship mai devreme de iulie-august",
+      "se poate face internship si in afara perioadei anuntate"
+    ],
+    "responses": [
+      "Există varianta de internship individual, dacă se ajunge la această concluzie în urma evaluării."
+    ]
+  },
+  {
+    "tag": "program",
+    "patterns": [
+      "care va fi programul zilnic al internshipului",
+      "care este programul de internship"
+    ],
+    "responses": [
+      "Internship-urile de grup au programul full-time, și se vor desfășura în intervalul 09:00-18:00, cu o pauză de masă de o oră. Internship-urile individuale au program part-time, în funcție de disponibilitatea studentului."
+    ]
+  },
+  {
+    "tag": "schimbare_cariera",
+    "patterns": [
+      "am vazut ca intershipul este pentru studenti si persoane ce vor sa-si schimbe cariera, cum este cazul meu in care vreau sa-mi schimb cariera, ar trebui sa astept pana in iulie, august pentru a putea incepe"
+    ],
+    "responses": [
+      "Te sfatuim sa aplici pentru internship in perioada 01 ianuarie – 28 februarie, pentru a putea fi evaluat. Daca vei fi selectat vei avea timp pentru studierea materialelor oferite de noi pana sa inceapa internshipul de grup."
+    ]
+  },
+  {
+    "tag": "practica",
+    "patterns": ["se poate echivala cu un stagiu de practica pentru facultate"],
+    "responses": [
+      "Poți obține o convenție de practică pentru Universitate în urma participarii la internship care echivalează practica de facultate."
+    ]
+  },
+  {
+    "tag": "participari",
+    "patterns": [
+      "exista un numar limitat de participari la internship pentru o persoana",
+      "pot sa aplic de mai multe ori la internship"
+    ],
+    "responses": [
+      "Ideal este ca după participarea la unul sau două internship-uri, să se ajungă la o concluzie în privința unui posibil viitor in companie."
+    ]
+  },
+  {
+    "tag": "durata",
+    "patterns": [
+      "care este durata internshipului",
+      "pe ce perioada este acest internship"
+    ],
+    "responses": [
+      "Internship-urile de grup au durata de două săptămâni și 4 zile și se desfașoară două sesiuni, una în iulie iar cealaltă în august. Internship-urile individuale au durata de o lună și se pot desfășura pe tot parcursul anului."
+    ]
+  },
+  {
+    "tag": "inceput",
+    "patterns": [
+      "se stiu zilele de incepere a internshipului",
+      "care este data de inceput a internshipului",
+      "care este data de inceput a internshipului de grup"
+    ],
+    "responses": [
+      "Pentru internship-urile de grup nu am stabilit exact datele, dar în mod normal prima sesiune are loc în luna iulie iar a doua în luna august."
+    ]
+  },
+  {
+    "tag": "proiect",
+    "patterns": [
+      "internii vor scrie si cod care intra in productie",
+      "la ce proiecte voi lucra ca intern",
+      "care sunt proiectele",
+      "pot sa aleg la ce proiect imi doresc sa lucrez"
+    ],
+    "responses": [
+      "Participanții vor lucra la un proiect de învățare creat special pentru internship.",
+      "Proiectul este diferit în fiecare an. Este vorba despre un proiect de învățare creat special pentru internship. Se va lucra în echipă, participanții vor fi împărțiți în două grupe din care vor face parte persoane care vor lucra pe back-end, front-end, mobile și QA."
+    ]
+  },
+  {
+    "tag": "testare",
+    "patterns": [
+      "putem participa la mai multe tehnologii de testare",
+      "cum arata o zi din activitatea colegilor care lucreaza pe testare manuala si automata"
+    ],
+    "responses": [
+      "În cadrul internship-ului cei care vor lucra pe partea de QA vor lucra și cu testare manuala și cu testare automată.",
+      "Poți afla informații despre activitatea colegilor care lucrează pe testare parcurgând următorul articol https://assist-software.net/blog/zero-hero-6-steps-will-guide-you-career-testing"
+    ]
+  },
+  {
+    "tag": "android",
+    "patterns": ["pot aplica si pentru android", "este internship pe android"],
+    "responses": [
+      "Da, Android este una dintre tehnologiile utilizate în proiectul pregătit pentru internship."
+    ]
+  },
+  {
+    "tag": "sfaturi",
+    "patterns": [
+      "ce sfaturi de viata sau cariera mi-ati putea oferi, fiind lipsit de experienta, la inceput de cariera"
+    ],
+    "responses": [
+      "Un prim pas ar fi să identifici ce te pasionează și să înțelegi dacă se intersectează cu un skill pe care îl ai deja, în care caz poți continua să îl dezvolți, studiind și punând în practică acel skill. Dacă ai descoperit ceva nou care te pasionează, fă-ți un plan de studiu care sa includă cât mai multă practică și proiecte personale, pentru a le putea adauga CV-ului tău. Acestea îți vor spori șansele de a obține un job în domeniul dorit. De asemenea, existența unui mentor ar putea să te ajute să devii mai încrezător în cunoștințele tale, cât și în a te dezvolta tehnic."
+    ]
+  },
+  {
+    "tag": "candidat",
+    "patterns": [
+      "ce standarde ar trebui sa respecte candidatul ideal",
+      "ce calitati sunt cele mai importante pentru a excela in acest rol",
+      "care ar fi top 3 calitati de care ar trebui sa dea dovada un candidat",
+      "care ar fi principalele calitati pe care le cautati la un candidat pentru internship"
+    ],
+    "responses": [
+      "Candidatul ideal ar trebui să fie un student USV, pasionat de programare. Acesta ar trebui să dețină deja cunoștințe despre cel puțin un limbaj de programare, cât și experiență pe proiecte personale.",
+      "Cele mai importante atribuții ale unui candidat la internship ar fi lucrul în echipă, perseverența, cunoștințe și practică."
+    ]
+  },
+  {
+    "tag": "asteptari",
+    "patterns": [
+      "ce rezultate asteptati de la un student in perioada internshipului",
+      "imi puteți da un sfat cum sa ma pregătesc pentru acest internship ca sa pot beneficia 100% de cunoștințele și experienta care mi se oferă"
+    ],
+    "responses": [
+      "Cele mai importante atribuții ale unui participant la internship ar fi lucrul în echipă, perseverența, o evoluție vizibilă.",
+      "Un lucru important este să îți dorești să te dezvolți și să fii deschis spre o potențială reprofilare pe un limbaj nou. De asemenea, ar trebui să te folosești de materialele de studiu și de experiența și cunoștințele puse la dispoziția ta de către mentori."
+    ]
+  },
+  {
+    "tag": "portofoliu",
+    "patterns": [
+      "care sunt domeniile de interes in care ar trebui sa performez sau, eventual, sa le am in vedere pentru a le introduce in portofoliul profesional",
+      "la ce fel de proiecte putem lucra"
+    ],
+    "responses": [
+      "Domeniile de interes ar trebui să fie proprii, dar ai putea să încerci să fii la curent cu trend-urile din lumea programării, pentru a putea fi capabil să te reprofilezi sau să ai o tranziție ușoară spre un alt limbaj de programare.",
+      "Pentru portofoliu se poate lucra la orice tip de proiect care implică dezvoltarea cunoștințelor și skill-urilor tale pe o tehnologie."
+    ]
+  },
+  {
+    "tag": "limbaje",
+    "patterns": [
+      "se poate rezolva testul tehnic in limbajul respectiv chiar daca nu este in lista"
+    ],
+    "responses": [
+      "Testele sunt create pentru fiecare limbaj in parte, deci vei rezolva testul pe tehnologia aleasa de tine."
+    ]
+  },
+  {
+    "tag": "tehnologie",
+    "patterns": [
+      "tehnologia din care voi fi testat va influenta ce voi face pe durata internshipului",
+      "limbajul de programare ce il alegem pentru testare va avea influenta asupra ce vom face in perioada de internship"
+    ],
+    "responses": [
+      "Tehnologia din care vei fi testat va servi ca metodă inițială de selecție. Cel mai probabil nu vei folosi acea tehnologie pe parcursul internshipului."
+    ]
+  },
+  {
+    "tag": "multe",
+    "patterns": ["as putea fi testata pentru mai multe tehnologii"],
+    "responses": [
+      "Ai posibilitatea să alegi și două tehnologii pentru testare."
+    ]
+  },
+  {
+    "tag": "test_tehnic",
+    "patterns": ["cand va trebui sa dau testul tehnic"],
+    "responses": [
+      "Dacă vei fi selectat pentru testul tehnic, vei fi informat de acest lucru pe email și ți se vor comunica tehnologiile disponibile pentru testare."
+    ]
+  },
+  {
+    "tag": "limbaj_diferit",
+    "patterns": [
+      "Daca limbajul principal pe care il cunosc cel mai bine nu se afla in lista ce se poate face"
+    ],
+    "responses": [
+      "Daca limbajul pe care il cunosti cel mai bine nu se afla pe lista iti vom propune alte variante sau il vom include si pe acesta in lista de tehnologii."
+    ]
+  },
+  {
+    "tag": "swift",
+    "patterns": [
+      "dat fiind faptul ca mi-as dori si imi propun sa invat awift, vor fi oare in acest internship lucruri legate de swift, sau, este oare un departament ce are de-a face cu swift in firma assist",
+      "pot aplica si pentru swift",
+      "este internship pe swift"
+    ],
+    "responses": [
+      "În cadrul internship-ului de vară din anul 2021 s-a folosit și tehnologia swift, prin urmare ar putea fi folosit și la următorul internship. În cadrul ASSIST există un departament de Mobile, format din două ramuri: Android și iOS, iar în a doua ramură se folosește și swift."
+    ]
+  },
+  {
+    "tag": "bockchain",
+    "patterns": [
+      "am vazut ca aveti doua proiecte care folosesc tehnologia blockchain, ati dezvoltat un blockchain propriu sau ati folosit o solutie existenta, gen platforma ethereum"
+    ],
+    "responses": [
+      "De regula timpul nu ne permite sa construim solutii de la zero, ci folosim solutii existente."
+    ]
+  },
+  {
+    "tag": "grafica",
+    "patterns": [
+      "Pe viitor vor exista locuri de internship pentru grafică 3D/2D"
+    ],
+    "responses": [
+      "Există posibilitatea de a include în viitor și locuri pentru grafică 3D/2D, și vom informa întreaga comunitate ASSIST dacă se va întâmpla acest lucru."
+    ]
+  },
+  {
+    "tag": "oferta",
+    "patterns": [
+      "ce poate sa-mi ofere un internship la assist",
+      "ce o sa invat acolo",
+      "daca o sa fiu ales, cu ce o sa plec din acest internship"
+    ],
+    "responses": [
+      "O experiență care te-ar ajuta să obții cu mai multă ușurință un job în domeniu; lucru in echipă; dezvoltarea unor skill-uri pe care le deții deja sau a unor skill-uri noi; oportunitatea de a primi ajutor și susținere din partea unor mentori cu multă experiență în domeniu.",
+      "Pe durata internship-ului vei dezvolta o aplicație de la zero împreună cu alți colegi de echipă, vei învăța cum să lucrezi eficient într-o echipă, cum să găsești soluții la problemele tehnice, cum să colaborezi cu mentorii, vei pune în practică noțiunile teoretice dobândite dinainte de internship. Per total îți vei dezvolta atât abilitățile soft-skills, cât și cele tehnice."
+    ]
+  },
+  {
+    "tag": "alegere",
+    "patterns": ["de ce sa aleg assist si nu alta companie de software"],
+    "responses": [
+      "Pentru că suntem o companie de succes din Suceava care oferă multiple oportunități studenților USV, care se implică în comunitate și care are o cultură inclusivă."
+    ]
+  },
+  {
+    "tag": "cariera",
+    "patterns": [
+      "care sunt oportunitatile de dezvoltare in cariera",
+      "ce oportunitati exista in cadrul companiei in urma internshipului",
+      "din perspectiva incheierii cu succes a acestor forme de pregatire, care ar fi posibilitatea initierii unei colaborari profesionale ulterioare",
+      "exista posibilitatea dupa terminarea internshipului de a ramane angajat in cadrul firmei"
+    ],
+    "responses": [
+      "În urma internship-ului ai putea obține un internship plătit sau chiar un job, care la rândul lor ți-ar oferi un nou set de beneficii și oportunități de dezvoltare personală cât ți profesională. Dacă vei obține un job în ASSIST vei avea la dispoziție numeroase materiale de studiu, cursuri și workshop-uri, cât și posibilitatea de a participa la conferințe și convenții tehnice.",
+      "În funcție de evoluția ta din cadrul internshipului, pașii următori vor fi aceștia: îți vom propune un internship individual, iar dacă rezultatele vor fi bune, un internship individual plătit sau un job."
+    ]
+  },
+  {
+    "tag": "admitere",
+    "patterns": [
+      "cunostintele pe care le dobandesc la acest internship ma vor ajuta la admiterea de la facultate"
+    ],
+    "responses": [
+      "În funcție de limbajul cu care vei lucra pe parcursul internship-ului, există o posibilitate mai mică sau mai mare să te ajute cunoștințele dobândite la admiterea de la facultate."
+    ]
+  },
+  {
+    "tag": "informare_selectie",
+    "patterns": ["cum aflu daca am fost selectionat"],
+    "responses": [
+      "Pe perioada etapelor de selectie vom tine legatura cu tine prin email. Prin urmare vei fi informat prin email daca ai fost selectat sau nu."
+    ]
+  },
+  {
+    "tag": "final",
+    "patterns": [
+      "voi primi o scrisoare de recomandare la finalul programului de internship"
+    ],
+    "responses": [
+      "La finalul programului de internship vei primi o adeverință de practică."
+    ]
+  },
+  {
+    "tag": "oportunitati",
+    "patterns": ["pot aplica pentru mai multe oportunitati de internship"],
+    "responses": [
+      "Poți aplica pentru mai multe oportunități de internship. De asemenea, ai posibilitatea să participi la concursurile organizate de ASSIST Software pentru studenți: Tech Challenge, Coding Challenge, Best Innovative Minds, despre care poți afla urmărind paginile noastre de social media."
+    ]
+  },
+  {
+    "tag": "plata",
+    "patterns": ["internshipurile oferite sunt platite"],
+    "responses": ["O parte din internship-uri sunt plătite."]
+  },
+  {
+    "tag": "nimic",
+    "patterns": [
+      "daca nu stiu nimic despre software",
+      "nu sunt la o facultate in domeniu dar sunt pasionat de acest domeniu. de unde pot incepe"
+    ],
+    "responses": [
+      "Dacă nu știi nimic despre software, poți începe prin a studia bazele programării, structuri de date, algoritmi și baze de date. Apoi poți folosi resursele noastre de studiu pentru a studia un limbaj pe care dorești sa îl aprofundezi. Resursele noastre sunt accesibile la adresa https://assist-software.net/learning-resources."
+    ]
+  },
+  {
+    "tag": "engleza",
+    "patterns": ["Este limba engleză un must-have în industrie"],
+    "responses": [
+      "Sunt necesare cunoștinte bune de limbă engleză pentru a avea succes în industria software."
+    ]
+  },
+  {
+    "tag": "mentor",
+    "patterns": ["cine sunt mentorii"],
+    "responses": [
+      "Mentorii ce te vor îndruma la internship vor fi membri ai echipei ASSIST Software."
+    ]
+  },
+  {
+    "tag": "colegi",
+    "patterns": ["cati colegi voi avea"],
+    "responses": [
+      "La internship-ul de grup vei avea o echipă de maxim 12 persoane."
+    ]
+  },
+  {
+    "tag": "aplicare",
+    "patterns": [
+      "cum aplic",
+      "ce acte am nevoie pentru a aplica",
+      "cum ma pot inscrie",
+      "ne trimiteti mail cu actele de care avem nevoie pentru inscriere la internship"
+    ],
+    "responses": [
+      "Poți aplica la internship prin completarea unui formular de înscriere disponibil la adresa https://assist-software.net/internship.",
+      "Pentru a aplica este suficient să completezi formularul de înscriere disponibil la adresa https://assist-software.net/internship. Nu sunt necesare acte de înscriere."
+    ]
+  },
+
+  {
+    "tag": "selectie",
+    "patterns": [
+      "faptul ca eu in acest moment ma aflu in republica moldova nu va influenta etapele de selectie si interviurile hr si tehnic",
+      "procesul de selectie poate fi online",
+      "trebuie sa vin la firma pentru procesul de selectie"
+    ],
+    "responses": [
+      "Etapele din procesul de selecție pot avea loc online, însă internshipul se va desfășura la sediul ASSIST."
+    ]
+  }
+]

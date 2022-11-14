@@ -1,0 +1,221 @@
+Intrebarea 1: Se fac si internship-uri individuale? 
+Raspuns 1: Da, internship-urile individuale au loc pe tot parcursul anului. 
+
+Intrebarea 2: Pot avea evaluare si internship-ul online? 
+Raspuns 2: Evaluarea poate avea loc online, dar internship-urile au loc la sediul ASSIST. 
+
+Intrebarea 3: Este internship-ul gratis? 
+Raspuns 3: Da, internship-ul nu prezinta nici un cost din partea participantilor.  
+
+Intrebarea 4: Cine poate aplica ? 
+Raspuns 4: Pot aplica elevi ce au sustinut examenul de bacalaureat, studenti la orice specializare si persoane ce doresc sa se reorienteze din punct de vedere profesional. 
+
+Intrebarea 5: Care ar fi indatoririle si responsabilitatile mele daca sunt acceptata ? 
+Raspuns 5: Cele mai importante responsabilitati a celor selectati pentru internship sunt: parcurgerea materialelor de studiu oferite de noi, mentinerea unei linii de comunicare cu noi, participarea in mod activ si colaborativ la internship
+
+Intrebarea 6: Faptul ca eu in acest moment ma aflu in Republica Moldova nu va influenta etapele de selectie si interviurile HR si tehnic ? 
+Raspuns 6: Nu, toate etapele de selectie pot avea loc online, insa internship-ul se va desfasura la sediul firmei. 
+
+Intrebarea 7: Există o opțiune de intership mai devreme (aprilie-mai) ? 
+Raspuns 7: Exista varianta de internship individual, daca se ajunge la aceasta concluzie in urma evaluarii.  
+
+Intrebarea 8: Internship-ul va avea loc in online sau la sediul companiei ? 
+Raspuns 8: Internship-urile se desfasoara la sediul ASSIST. 
+
+Intrebarea 9: Cum anume va fi internship-ul (Online/Offline)? 
+Raspuns 9: Internship-urile se desfasoara la sediul ASSIST. 
+
+Intrebarea 10: Care va fi programul zilnic al internship-ului? 
+Raspuns 10: Internship-urile de grup au programul full-time, si se vor desfasura in intervalul 09:00-18:00, cu o pauza de masa de o ora. Internship-urile individuale au program part time, in functie de disponibilitatea studentului. 
+
+Intrebarea 11: E posibil să incep internship mai devreme de iulie-august? 
+Raspuns 11: Exista varianta de internship individual, daca se ajunge la aceasta concluzie in urma evaluarii. 
+
+Intrebarea 12: Am vazut ca Intership-ul este pentru studenti si persoane ce vor sa-si schimbe cariera, cum este cazul meu in care vreau sa-mi schimb cariera, ar trebui sa astept pana in Iulie, August pentru a putea incepe? 
+Raspuns 12: Te sfatuim sa aplici pentru internship in perioada 01 ianuarie – 28 februarie, pentru a putea fi evaluat. Daca vei fi selectat vei avea timp pentru studierea materialelor oferite de noi pana sa inceapa internshipul de grup. 
+
+Intrebarea 13: Internship-ul se va desfasura remote? Se poate echivala cu un stagiu de practica pentru facultate? 
+Raspuns 13: Internship-urile se desfasoara la sediul ASSIST. Poti obtine o conventie de practica pentru Universitate in urma participarii la internship care echivaleaza practica de facultate. 
+
+Intrebarea 14: Există un număr limitat de participări la internship pentru o persoană? 
+Raspuns 14: Nu neaparat, dar ideal este ca dupa participarea la unul sau doua internship-uri, sa se ajunga la o concluzie in privinta unui posibil viitor in companie.  
+
+Intrebarea 15: Care este durata internshipului? 
+Raspuns 15: Internship-ul de grup are durata de doua saptamani si 4 zile.  
+
+Intrebarea 16: Se stiu zilele de incepere a internship-ului ? 
+Raspuns 16: Nu am stabilit inca datele exacte ale sesiunilor de internship, dar in mod normal prima sesiune are loc in luna iulie iar a doua in luna august.  
+
+Intrebarea 17: Pe ce perioada este acest internship? 
+Raspuns 17: Internship-ul de grup are durata de doua saptamani si 4 zile, prima sesiune are loc in luna iulie iar a doua in luna august. 
+
+Intrebarea 18: Internship-ul se desfasoara in Suceava? Se poate remote? 
+Raspuns 18: Internship-ul se desfasoara la sediul ASSIST. 
+
+Intrebarea 19: Internii vor scrie și cod care intră în producție? 
+Raspuns 19: Nu, participantii vor lucra la un proiect de invatare creat special pentru internship. 
+
+Intrebarea 20: Putem participa la mai multe tehnologii de testare? 
+Raspuns 20: In cadrul internship-ului cei care vor lucra pe partea de QA vor lucra si cu testare manuala si cu testare automata.  
+
+Intrebatrea 21: Pot aplica si pentru Android? 
+Raspuns 21: Da, Android este una dintre tehnologiile utilizate in proiectul pregatit pentru internship. 
+
+Intrebarea 22: Se poate face internship si in afara perioadei anuntate? 
+Raspuns 22: Exista varianta de internship individual, daca se ajunge la aceasta concluzie in urma evaluarii. 
+
+Intrebarea 23: Este nevoie de relocare la Suceava? Sau este totul online?   
+Raspuns 23: Da, internship-ul se desfasoara la sediul ASSIST. 
+
+Intrebarea 24: Va fi doar internship în echipă sau poate fi și individual? 
+Raspuns 24: Internship-urile individuale au loc pe tot parcursul anului. Internship-ul de grup are loc doar pe parcursul lunilor iulie si august, structurate in doua sesiuni.  
+
+Intrebarea 25: Ce sfaturi de viață sau carieră mi-ați putea oferi, fiind lipsit de experiență, la început de carieră? 
+Raspuns 25: Un prim pas ar fi sa identifici ce te pasioneaza si sa intelegi daca se intersecteaza cu un skill pe care il ai deja, in care caz poti continua sa il dezvolti, studiind si punand in practica acel skill. Daca ai descoperit ceva nou care te pasioneaza, fa-ti un plan de studiu care sa includa cat mai multa practica si proiecte personale, pentru a le putea adauga CV-ului tau. Acestea iti vor spori sansele de a obtine un job in domeniul dorit. De asemenea, existenta unui mentor ar putea sa te ajute sa devii mai increzator in cunostintele tale, cat si in a te dezvolta tehnic. 
+
+Intrebarea 26: Ce standarde ar trebui să respecte candidatul ideal?   
+Raspuns 26: Candidatul ideal ar trebui sa fie un student USV, pasionat de programare. Acesta ar trebui sa detina deja cunostinte despre cel putin un limbaj de programare, cat si experienta pe proiecte personale.  
+
+Intrebarea 27: Ce calitati sunt cele mai importante pentru a excela in acest rol ? 
+Raspuns 27: Candidatul ideal ar trebui sa fie un student USV, pasionat de programare. Acesta ar trebui sa detina deja cunostinte despre cel putin un limbaj de programare, cat si experienta pe proiecte personale. 
+
+Intrebarea 28: Ce rezultate așteptați de la un student în perioada intership-ului ? 
+Raspuns 28: Cele mai importante atributii ale unui participant la internship ar fi lucrul in echipa, perseverenta, o evolutie vizibila
+
+Intrebarea 29: Care ar fi top 3 calitati de care ar trebui sa dea dovada un candidat? 
+Raspuns 29: Cele mai importante atributii ale unui candidat la internship ar fi lucru in echipa, perseverenta, cunostinte si practica
+
+Intrebarea 30: Care ar fi principalele calitati pe care le cautati la un candidat pentru internship? 
+Raspuns 30: Candidatul ideal ar trebui sa fie un student USV, pasionat de programare. Acesta ar trebui sa detina deja cunostinte despre cel putin un limbaj de programare, cat si experienta pe proiecte personale. 
+
+Intrebarea 31: Care sunt domeniile de interes în care ar trebui să performez sau, eventual, să le am în vedere pentru a le introduce în portofoliul profesional? 
+Raspuns 31: Domeniile de interes ar trebui sa fie proprii, dar ai putea sa incerci sa fii la curent cu trend-urile din lumea programarii, pentru a putea fi capabil sa te reprofilezi sau sa ai o tranzitie usoara spre un alt limbaj de programare. 
+
+Intrebarea 32: Îmi puteți da un sfat cum sa ma pregătesc pentru acest internship ca sa pot beneficia 100% de cunoștințele și experienta care mi se oferă? 
+Raspuns 32: Un lucru important este sa iti doresti sa te dezvolti si sa fii deschis spre o potentiala reprofilare pe un limbaj nou. De asemenea, ar trebui sa te folosesti de materialele de studiu si de experienta si cunostintele puse le dispozitia ta de catre mentori. 
+
+Intrebarea 33: Se poate rezolva testul tehnic in limbajul respectiv chiar daca nu este in lista ? 
+Raspuns 33: Testele sunt create pentru fiecare limbaj in parte, deci vei rezolva testul pe tehnologia aleasa de tine.  
+
+Intrebarea 34: Tehnologia din care voi fi testat va influenta ce voi face pe durata internship-ului? 
+Raspuns 34: Nu, tehnologia din care vei fi testat va servi ca metoda initiala de selectie. Cel mai probabil nu vei folosi acea tehnologie pe parcursul internship-ului. 
+
+Intrebarea 35: As putea fi testata pentru mai multe tehnologii?  
+Raspuns 35: Da, ai posibilitatea sa alegi si 2 tehnologii pentru testare.  
+
+Intrebarea 36: Cand va trebui sa dau testul tehnic? 
+Raspuns 36: Daca vei fi selectat pentru testul tehnic, vei fi informat de acest lucru pe email si ti se vor comunica tehnologiile disponibile pentru testare.  
+
+Intrebarea 37: Limbajul de programare ce il alegem pentru testare va avea influență asupra ce vom face în perioada de internship? 
+Raspuns 37: Nu, tehnologia din care vei fi testat va servi ca metoda initiala de selectie. Cel mai probabil nu vei folosi acea tehnologie pe parcursul internship-ului. 
+
+Intrebarea 38: La ce fel de proiecte putem lucra? 
+Raspuns 38: La orice tip de proiect care implica dezvoltarea cunostintelor si skill-urilor tale pe o tehnologie.  
+
+Intrebarea 39: Daca limbajul principal pe care il cunosc cel mai bine(python) nu se afla in lista ce se poate face? 
+Raspuns 39: Daca limbajul pe care il cunosti cel mai bine nu se afla pe lista iti vom propune alte variante sau il vom include si pe acesta in lista de tehnologii.  
+
+Intrebarea 40: La ce proiecte voi lucra ca intern? 
+Raspuns 40: La un proiect de invatare special creat pentru internship.  
+
+Intrebarea 41: Dat fiind faptul ca mi-as dori si imi propun sa invat Swift, vor fi oare in acest internship lucruri legate de Swift, sau, este oare un departament ce are de-a face cu Swift in firma ASSIST?  
+Raspuns 41: In cadrul internship-ului de vara din anul 2021 s-a folosit si tehnologia swift, prin urmare ar putea fi folosit si la urmatorul internship. In cadrul ASSIST exista un departament de Mobile, format din dou ramuri: Android si iOS, iar in a doua ramura se foloseste si swift. 
+
+Intrebarea 42: Am vazut ca aveti doua proiecte care folosesc tehnologia Blockchain, ati dezvoltat un Blockchain propriu sau ati folosit o solutie existenta, gen platforma Ethereum? 
+Raspuns 42: De regula timpul nu ne permite sa construim solutii de la zero, ci folosim solutii existente. 
+
+Intrebarea 43: Care sunt proiectele? Cum se lucrează, in echipa sau indiviual?  
+Raspuns 43: Proiectul este diferit in fiecare an. Este vorba despre un proiect de invatare creat special pentru internship. Se va lucra in echipa, participantii vor fi impartiti in 2 grupe din care vor face parte persoane care vor lucra pe back-end, front-end, mobile si QA.  
+
+Intrebarea 44: Cum arata o zi din activitatea colegilor care lucreaza pe testare manuala si automata? 
+Raspuns 44: Poti afla informatii despre activitatea colegilor care lucreaza pe testare parcurgand urmatorul articol https://assist-software.net/blog/zero-hero-6-steps-will-guide-you-career-testing. 
+
+Intrebarea 45: Pe viitor vor exista locuri de internship pentru grafică 3D/2D? 
+Raspuns 45: Exista posibilitatea de a include in viitor si locuri pentru grafica 3D/2D, si vom informa intreaga comunitate ASSIST daca se va intampla acest lucru.  
+
+Intrebarea 46: Ce poate să-mi ofere un internship la ASSIST? 
+Raspuns 46: O experienta care te-ar ajuta sa obtii cu mai multa usurinta un job in domeniu; lucru in echipa; dezvoltarea unor skill-uri pe care le detii deja sau a unor skill-uri noi; oportunitatea de a primi ajutor si sustinere din partea unor mentori cu multa experienta in domeniu.  
+
+Intrebarea 47: De ce să aleg ASSIST și nu altă companie de software? 
+Raspuns 47: Pentru ca suntem o companie de succes din Suceava care ofera multiple oportunitati studentilor USV, care se implica in comunitate si care are o cultura inclusiva. 
+
+Intrebarea 48: Care sunt oportunitatile de dezvoltare in cariera? 
+Raspuns 48: In urma internship-ului ai putea obtine un internship platit sau chiar un job, care la randul lor ti-ar oferi un nou set de beneficii si oportunitati de dezvoltare personala cat si profesionala. Daca vei obtine un job in ASSIST vei avea la dispozitie numeroase materiale de studiu, cursuri si workshop-uri, cat si posibilitatea de a participa la conferinte si conventii tehnice.  
+
+Intrebarea 49: Cunoștințele pe care le dobândesc la acest internship ma vor ajuta la admiterea de la Facultate? 
+Raspuns 49: In functie de limbajul cu care vei lucra pe parcursul internship-ului, exista o posibilitate mai mica sau mai mare sa te ajute cunostintele dobandite la admiterea de la Facultate. 
+
+Intrebarea 50: Ce oportunități exista în cadrul companiei in urma internship-ului? 
+Raspuns 50: Principala oportunitate este posibilitatea obtinerii unui job in cadrul companiei.  
+
+Intrebarea 51: Din perspectiva încheierii cu succes a acestor forme de pregătire, care ar fi posibilitatea inițierii unei colaborări profesionale ulterioare? 
+Raspuns 51: In functie de evolutia ta din cadrul internship-ului, pasii urmatori vor fi acestia: iti vom propune un internship individual, iar daca rezultatele vor fi bune, un internship individual platit sau un job. 
+
+Intrebarea 52: Există posibilitatea după terminarea internship-ului de a rămâne angajat în cadrul firmei?   
+Raspuns 52: Da, daca evolutia ta pe parcursul internship-ului a fost una buna, atunci iti vom propune ori un internship platit ori un job.  
+
+Intrebarea 53: Ce o sa invat acolo? 
+Raspuns 53: Pe durata internshipului vei dezvolta o aplicatie de la zero impreuna cu alti colegi de echipa, vei invata cum sa lucrezi eficient intr-o echipa, cum sa gasesti solutii la problemele tehnice, cum sa colaborezi cu mentorii, vei pune in practica notiunile teoretice dobandite dinainte de internship. 
+
+Intrebarea 54: Cum aflu daca am fost selectionat? 
+Raspuns 54: Pe perioada etapelor de selectie vom tine legatura cu tine prin email. Prin urmare vei fi informat prin email daca ai fost selectat sau nu. 
+
+Intrebarea 55: Trebuie neaparat sa fiu student la facultatile mentionate? 
+Raspuns 55: La internship pot aplica studenti de la alte specializari decat Calculatoare, Automatica si Informatica, Informatica Economica. 
+
+Intrebarea 56: Daca am terminat sau sunt in an mai mic, pot totusi sa aplic? 
+Raspuns 56: La internship pot aplica absolventi de facultate, studenti din orice an de studiu, elevi ce au sustinut examenul de bacalaureat, persoane ce doresc sa se reorienteze din punct de vedere profesional. 
+
+Intrebarea 57: Daca o sa fiu ales, cu ce o sa plec din acest internship ? 
+Raspuns 57: Pe durata internship-ului vei dezvolta o aplicatie de la zero impreuna cu alti colegi de echipa, vei invata cum sa lucrezi eficient intr-o echipa, cum sa gasesti solutii la problemele tehnice, cum sa colaborezi cu mentorii, vei pune in practica notiunile teoretice dobandite dinainte de internship. Per total iti vei dezvolta atat abilitatile soft-skills, cat cele tehnice. 
+
+Intrebarea 58: Voi primi o scrisoare de recomandare la finalul programului de internship? 
+Raspuns 58: La finalul programului de internship vei primi o adeverinta de practica. 
+
+Intrebarea 59: Pot aplica pentru mai multe oportunitati de internship? 
+Raspuns 59: Pot aplica pentru mai multe oportunitati de internship. De asemenea, ai posibilitatea sa participi la concursurile organizate de ASSIST Software pentru studenti: Tech Challenge, Coding Challenge, Best Innovative Minds, despre care poti afla urmarind paginile noastre de social media. 
+
+Intrebarea 60: Internship-urile oferite sunt platite? 
+Raspuns 60: O parte din internshipuri sunt platite.  
+
+Intrebarea 61: Cine poate aplica la ASSIST Academy? 
+Raspuns 61: La ASSIST Academy pot aplica absolventi de facultate, studenti din orice an de studiu, elevi ce au sustinut examenul de bacalaureat, persoane ce doresc sa se reorienteze din punct de vedere profesional. 
+
+Intrebarea 62: Dacă nu știu nimic despre software? 
+Raspuns 62: Daca nu stii nimic despre software, poti incepe prin a studia bazele programarii, structuri de date, algoritmi si baze de date. Apoi poti folosi resursele noastre de studiu pentru a studia un limbaj pe care doresti sa il aprofundezi. Resursele noastre sunt accesibile la adresa https://assist-software.net/learning-resources. 
+
+Intrebarea 63: Este limba engleză un must-have în industrie? 
+Raspuns 63: Da, este limba engleză un must-have în industrie. 
+
+Intrebarea 64: Cine sunt mentorii? 
+Raspuns 64: Mentorii cu care vei colabora la internship vor fi membri ai echipei ASSIST Software. 
+
+Intrebarea 65: Sunt programele accesibile online? 
+Raspuns 65: Programele nu sunt accesibile online, ci se desfasoara la sediul firmei. 
+
+Intrebarea 66: Câți colegi voi avea? 
+Raspuns 66: La internship-ul de grup vei avea o echipa de maxim 12 persoane. 
+
+Intrebarea 67: Cum aplic? 
+Raspuns 67: Poti aplica la internship prin completarea unui formular de inscriere disponibil la adresa https://assist-software.net/internship. 
+
+Intrebarea 68: Ce acte am nevoie pentru a aplica? 
+Raspuns 68: Pentru a aplica este suficient sa completezi formularul de inscriere disponibil la adresa https://assist-software.net/internship. Nu sunt necesare acte de inscriere. 
+
+Intrebarea 69: Pot sa-mi aleg eu cand doresc sa fac internship-ul ? 
+Raspuns 69: Exista varianta de internship individual, daca se ajunge la aceasta concluzie in urma evaluarii. 
+
+Intrebarea 70: Putem sa alegem daca internship-ul sa fie online sau offline? 
+Raspuns 70: Internship-urile se desfasoara la sediul ASSIST. 
+
+Intrebarea 71: Cum ma pot inscrie ? Ne trimiteti mail cu actele de care avem nevoie? 
+Raspuns 71: Pentru a aplica este suficient sa completezi formularul de inscriere disponibil la adresa https://assist-software.net/internship. Nu sunt necesare acte de inscriere. 
+
+Intrebarea 72: Nu sunt la o facultate in domeniu, dar sunt pasionat de acest domeniu. De unde pot incepe ? 
+Raspuns 72: Daca nu stii nimic despre software, poti incepe prin a studia bazele programarii, structuri de date, algoritmi si baze de date. Apoi poti folosi resursele noastre de studiu pentru a studia un limbaj pe care doresti sa il aprofundezi. Resursele noastre sunt accesibile la adresa https://assist-software.net/learning-resources. 
+
+Intrebarea 73: Pot sa aplic de mai multe ori la internship? 
+Raspuns 73: Nu neaparat, dar ideal este ca dupa participarea la unul sau doua internship-uri, sa se ajunga la o concluzie in privinta unui posibil viitor in companie. 
+
+Intrebarea 74: Pot sa aleg la ce proiect imi doresc sa lucrez ? 
+Raspuns 74: Vei lucra la un proiect de invatare special creat pentru internship.
