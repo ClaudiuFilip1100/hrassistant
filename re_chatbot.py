@@ -16,13 +16,21 @@ class Chatbot:
 
   def build_model(self, input_len, output_len):
     model = tf.keras.Sequential()
-    model.add(tf.keras.layers.Dense(512, input_shape=(input_len,), activation='relu'))
-    model.add(tf.keras.layers.Dense(512, activation='relu'))
-    model.add(tf.keras.layers.Dense(1024, activation='relu'))
-    model.add(tf.keras.layers.Dense(512, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len, input_shape=(input_len,), activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 2, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 4, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 8, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 16, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 32, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 16, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 8, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 4, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len * 2, activation='relu'))
+    model.add(tf.keras.layers.Dense(input_len, activation='relu'))
     model.add(tf.keras.layers.Dense(output_len, activation='softmax'))
 
-    optimizer = tf.keras.optimizers.Adam(learning_rate=0.0005)
+    optimizer = tf.keras.optimizers.Adam(learning_rate=0.00005)
 
     model.compile(loss='categorical_crossentropy', optimizer=optimizer, metrics=['accuracy'])
 
@@ -34,7 +42,7 @@ class Chatbot:
     
     self.history = self.nn.fit(np.array(X), 
       np.array(Y), 
-      epochs=200, 
+      epochs=300, 
       batch_size=8,
       verbose=1
     )

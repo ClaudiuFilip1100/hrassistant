@@ -16,7 +16,11 @@ app.add_middleware(
 
 @app.get("/predict")
 def predict(input_sentence: str):
-  return {'msg': predict_answer(input_sentence)}
+  prediction = predict_answer(input_sentence)
+  return {
+    "msg": prediction["answer"],
+    "confidence": str(prediction["confidence"])
+  }
 
 
 if __name__ == "__main__":

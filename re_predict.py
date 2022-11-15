@@ -38,10 +38,13 @@ def predict_answer(question):
   question_p = preprocess_dataset([question])
   input_tensor = tokenize(chatbot.tokenizer, question_p, input_len, False)
   
-  res = chatbot.predict(input_tensor)
+  res = chatbot.predict(input_tensor)[0]
   pred = np.argmax(res)
   class_name = classes[pred]
-  return np.random.choice(intents_to_response[class_name]) if class_name in intents_to_response.keys() and pred > 0.7 else 'Nu stiu nimic :('
+  return {
+    "answer": np.random.choice(intents_to_response[class_name]) if class_name in intents_to_response.keys() and res[pred] > 0.7 else 'Nu sunt sigur ca pot raspunde la aceasta intrebare',
+    "confidence": res[pred]
+  }
 
 if __name__ == '__main__':
   q = input('Your question: ')
