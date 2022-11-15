@@ -1,5 +1,6 @@
 from pathlib import Path
 import json
+import numpy as np
 
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
@@ -46,6 +47,22 @@ def train():
       "classes": classes_sorted,
       "intents_to_response": dict(map(lambda x: (x["tag"], x["responses"]), dataset))
     }, wf)
+    
+  new_input = []
+  for idx, sentence in enumerate(input_tensor):
+    print(f'Augmenting row {idx} of {len(input_tensor)}', end='\r')
+    for _ in range(5):
+      new_sentence = [x for x in sentence if x != 0]
+      np.random.shuffle(new_sentence)
+      new_sentence = new_sentence + [0] * (len(sentence) - len(new_sentence))
+      new_sentence = np.array(new_sentence)
+      
+      new_input.append(new_sentence)
+      classes_idx.append(classes_idx[idx])
+
+  input_tensor = list(input_tensor) + new_input
+  input_tensor = np.array(input_tensor)
+
     
   chatbot.build_model(input_len, output_len)
   chatbot.train(input_tensor, classes_idx)

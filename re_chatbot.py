@@ -17,10 +17,9 @@ class Chatbot:
   def build_model(self, input_len, output_len):
     model = tf.keras.Sequential()
     model.add(tf.keras.layers.Dense(512, input_shape=(input_len,), activation='relu'))
-    model.add(tf.keras.layers.Dropout(0.5))
+    model.add(tf.keras.layers.Dense(512, activation='relu'))
     model.add(tf.keras.layers.Dense(1024, activation='relu'))
     model.add(tf.keras.layers.Dense(512, activation='relu'))
-    model.add(tf.keras.layers.Dropout(0.5))
     model.add(tf.keras.layers.Dense(output_len, activation='softmax'))
 
     optimizer = tf.keras.optimizers.Adam(learning_rate=0.0005)
@@ -35,7 +34,7 @@ class Chatbot:
     
     self.history = self.nn.fit(np.array(X), 
       np.array(Y), 
-      epochs=1000, 
+      epochs=200, 
       batch_size=8,
       verbose=1
     )

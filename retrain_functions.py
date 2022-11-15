@@ -29,6 +29,13 @@ def remove_stopwords(text, path_to_stopwords):
 def to_lower(text):
   return text.lower()
 
+def update_romanian_marks(text):
+  romanian = [['ă', 'a'], ['â', 'a'], ['î', 'i'], ['ș', 's'], ['ț', 't']]
+  for ro in romanian:
+    text = text.replace(ro[0], ro[1])
+  
+  return text
+
 # split into words
 def split_words(text):
   tokens = re.split(' ',text)
@@ -44,11 +51,12 @@ def stemming(text):
 def preprocess_sentence(sentence):
   text = remove_preposition(sentence)
   text = remove_punctuation(text)
+  text = update_romanian_marks(text)
   text = split_words(text)
   # text = remove_stopwords(text, 'data/input/stopwords-ro.txt')
   text = list(filter(None, text))
   text = [to_lower(x) for x in text]
-  # text = stemming(text)
+  text = stemming(text)
   text = ['<start>'] + text 
   text = text + ['<end>']
   

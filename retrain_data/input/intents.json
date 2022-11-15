@@ -4,7 +4,9 @@
     "patterns": [
       "se fac si internship-uri individuale",
       "va fi doar internship in echipa sau poate fi si individual",
-      "pot sa-mi aleg eu cand doresc sa fac internship-ul"
+      "pot sa-mi aleg eu cand doresc sa fac internship-ul",
+      "internship individual",
+      "ce fel de internshipuri sunt"
     ],
     "responses": [
       "Internship-ul individual are loc pe tot parcursul anului. Internship-ul de grup are loc doar pe parcursul lunilor iulie si august, structurate in doua sesiuni. "
@@ -26,7 +28,14 @@
   },
   {
     "tag": "gratis",
-    "patterns": ["este internshipul gratis", "internshipurile sunt gratis"],
+    "patterns": [
+      "este internshipul gratis",
+      "internshipurile sunt gratis",
+      "cost",
+      "cat costa",
+      "care este costul",
+      "trebui sa platim"
+    ],
     "responses": [
       "Internship-urile nu prezintă nici un cost din partea participanților."
     ]
@@ -37,7 +46,10 @@
       "cine poate aplica",
       "trebuie neaparat sa fiu student la facultatile mentionate",
       "daca am terminat sau sunt in an mai mic, pot totusi sa aplic",
-      "cine poate aplica la assist academy"
+      "cine poate aplica la assist academy",
+      "candidati target",
+      "cine sunt candidatii target",
+      "trebuie sa fiu student ca sa aplic"
     ],
     "responses": [
       "Pot aplica elevi ce au susținut examenul de bacalaureat, studenți la orice specializare și persoane ce doresc să se reorienteze din punct de vedere profesional."
@@ -48,7 +60,10 @@
     "patterns": [
       "care ar fi indatoririle si responsabilitatile mele daca sunt acceptata",
       "care sunt urmatorii pasi daca sunt acceptata",
-      "ce va trebui sa fac daca sunt acceptata"
+      "ce va trebui sa fac daca sunt acceptata",
+      "care sunt indatoririle mele",
+      "indatoriri",
+      "responsabilitati"
     ],
     "responses": [
       "Cele mai importante responsabilități a celor selectați pentru internship sunt: parcurgerea materialelor de studiu oferite de noi, menținerea unei linii de comunicare cu noi, participarea în mod activ și colaborativ la internship."
@@ -59,7 +74,9 @@
     "patterns": [
       "exista o optiune de internship mai devreme",
       "e posibil să incep internship mai devreme de iulie-august",
-      "se poate face internship si in afara perioadei anuntate"
+      "se poate face internship si in afara perioadei anuntate",
+      "alta perioada",
+      "internship mai devreme"
     ],
     "responses": [
       "Există varianta de internship individual, dacă se ajunge la această concluzie în urma evaluării."
@@ -69,7 +86,9 @@
     "tag": "program",
     "patterns": [
       "care va fi programul zilnic al internshipului",
-      "care este programul de internship"
+      "care este programul de internship",
+      "care e programul",
+      "cat timp voi petrece pe zi la internship"
     ],
     "responses": [
       "Internship-urile de grup au programul full-time, și se vor desfășura în intervalul 09:00-18:00, cu o pauză de masă de o oră. Internship-urile individuale au program part-time, în funcție de disponibilitatea studentului."
@@ -81,12 +100,17 @@
       "am vazut ca intershipul este pentru studenti si persoane ce vor sa-si schimbe cariera, cum este cazul meu in care vreau sa-mi schimb cariera, ar trebui sa astept pana in iulie, august pentru a putea incepe"
     ],
     "responses": [
-      "Te sfatuim sa aplici pentru internship in perioada 01 ianuarie – 28 februarie, pentru a putea fi evaluat. Daca vei fi selectat vei avea timp pentru studierea materialelor oferite de noi pana sa inceapa internshipul de grup."
+      "Te sfatuim sa aplici pentru internship in perioada 01 ianuarie - 28 februarie, pentru a putea fi evaluat. Daca vei fi selectat vei avea timp pentru studierea materialelor oferite de noi pana sa inceapa internshipul de grup."
     ]
   },
   {
     "tag": "practica",
-    "patterns": ["se poate echivala cu un stagiu de practica pentru facultate"],
+    "patterns": [
+      "se poate echivala cu un stagiu de practica pentru facultate",
+      "echivalare cu practica",
+      "poate fi echivalat cu practica pentru facultate",
+      "e stagiul de practica"
+    ],
     "responses": [
       "Poți obține o convenție de practică pentru Universitate în urma participarii la internship care echivalează practica de facultate."
     ]
@@ -95,7 +119,11 @@
     "tag": "participari",
     "patterns": [
       "exista un numar limitat de participari la internship pentru o persoana",
-      "pot sa aplic de mai multe ori la internship"
+      "pot sa particip de mai multe ori la internship",
+      "de cate ori pot participa la internship",
+      "pot participa de mai multe ori",
+      "pot participa la mai multe programe de internship",
+      "pot participa la mai multe sesiuni de internship"
     ],
     "responses": [
       "Ideal este ca după participarea la unul sau două internship-uri, să se ajungă la o concluzie în privința unui posibil viitor in companie."
@@ -105,7 +133,16 @@
     "tag": "durata",
     "patterns": [
       "care este durata internshipului",
-      "pe ce perioada este acest internship"
+      "care e durata internshipului",
+      "cat e durata internshipului",
+      "cat e internshipului",
+      "cat dureaza",
+      "cat timp dureaza internshipul",
+      "durata internship",
+      "pe ce perioada este acest internship",
+      "perioada internship",
+      "perioada internship individual",
+      "perioada internship de grup"
     ],
     "responses": [
       "Internship-urile de grup au durata de două săptămâni și 4 zile și se desfașoară două sesiuni, una în iulie iar cealaltă în august. Internship-urile individuale au durata de o lună și se pot desfășura pe tot parcursul anului."
@@ -116,7 +153,9 @@
     "patterns": [
       "se stiu zilele de incepere a internshipului",
       "care este data de inceput a internshipului",
-      "care este data de inceput a internshipului de grup"
+      "care este data de inceput a internshipului de grup",
+      "cand incepe",
+      "cand incepe internshipul"
     ],
     "responses": [
       "Pentru internship-urile de grup nu am stabilit exact datele, dar în mod normal prima sesiune are loc în luna iulie iar a doua în luna august."
@@ -128,7 +167,10 @@
       "internii vor scrie si cod care intra in productie",
       "la ce proiecte voi lucra ca intern",
       "care sunt proiectele",
-      "pot sa aleg la ce proiect imi doresc sa lucrez"
+      "pot sa aleg la ce proiect imi doresc sa lucrez",
+      "la ce proiect voi lucra",
+      "este acelasi proiect in fiecare an",
+      "voi avea posibilitatea sa imi aleg proiectul la care sa lucrez"
     ],
     "responses": [
       "Participanții vor lucra la un proiect de învățare creat special pentru internship.",
@@ -139,7 +181,8 @@
     "tag": "testare",
     "patterns": [
       "putem participa la mai multe tehnologii de testare",
-      "cum arata o zi din activitatea colegilor care lucreaza pe testare manuala si automata"
+      "cum arata o zi din activitatea colegilor care lucreaza pe testare manuala si automata",
+      "care ar fi activitatea mea pe testare"
     ],
     "responses": [
       "În cadrul internship-ului cei care vor lucra pe partea de QA vor lucra și cu testare manuala și cu testare automată.",
@@ -156,7 +199,9 @@
   {
     "tag": "sfaturi",
     "patterns": [
-      "ce sfaturi de viata sau cariera mi-ati putea oferi, fiind lipsit de experienta, la inceput de cariera"
+      "ce sfaturi de viata sau cariera mi-ati putea oferi, fiind lipsit de experienta, la inceput de cariera",
+      "puteti sa imi dati cateva sfaturi la inceput de cariera",
+      "ce sfat puteti sa imi oferiti la inceput de cariera"
     ],
     "responses": [
       "Un prim pas ar fi să identifici ce te pasionează și să înțelegi dacă se intersectează cu un skill pe care îl ai deja, în care caz poți continua să îl dezvolți, studiind și punând în practică acel skill. Dacă ai descoperit ceva nou care te pasionează, fă-ți un plan de studiu care sa includă cât mai multă practică și proiecte personale, pentru a le putea adauga CV-ului tău. Acestea îți vor spori șansele de a obține un job în domeniul dorit. De asemenea, existența unui mentor ar putea să te ajute să devii mai încrezător în cunoștințele tale, cât și în a te dezvolta tehnic."
@@ -179,7 +224,9 @@
     "tag": "asteptari",
     "patterns": [
       "ce rezultate asteptati de la un student in perioada internshipului",
-      "imi puteți da un sfat cum sa ma pregătesc pentru acest internship ca sa pot beneficia 100% de cunoștințele și experienta care mi se oferă"
+      "imi puteți da un sfat cum sa ma pregătesc pentru acest internship ca sa pot beneficia 100% de cunoștințele și experienta care mi se oferă",
+      "care sunt asteptarile de la un student la internship",
+      "ce asteptari aveti de la studenti"
     ],
     "responses": [
       "Cele mai importante atribuții ale unui participant la internship ar fi lucrul în echipă, perseverența, o evoluție vizibilă.",
@@ -200,7 +247,10 @@
   {
     "tag": "limbaje",
     "patterns": [
-      "se poate rezolva testul tehnic in limbajul respectiv chiar daca nu este in lista"
+      "se poate rezolva testul tehnic in limbajul respectiv chiar daca nu este in lista",
+      "ce sa fac daca limbajul pe care m-am pregatit nu este in lista",
+      "putem da testul tehnic pe limbajul ales de noi",
+      "putem alege limbajul pentru testul tehnic"
     ],
     "responses": [
       "Testele sunt create pentru fiecare limbaj in parte, deci vei rezolva testul pe tehnologia aleasa de tine."
@@ -218,14 +268,23 @@
   },
   {
     "tag": "multe",
-    "patterns": ["as putea fi testata pentru mai multe tehnologii"],
+    "patterns": [
+      "as putea fi testata pentru mai multe tehnologii",
+      "pot da testul pentru mai multe tehnologii",
+      "pot da testul de mai multe ori",
+      "pe cate tehnologii pot fi testat"
+    ],
     "responses": [
       "Ai posibilitatea să alegi și două tehnologii pentru testare."
     ]
   },
   {
     "tag": "test_tehnic",
-    "patterns": ["cand va trebui sa dau testul tehnic"],
+    "patterns": [
+      "cand va trebui sa dau testul tehnic",
+      "cum aflu daca am fost selectionat",
+      "com voi fi informat daca am fost selectionat"
+    ],
     "responses": [
       "Dacă vei fi selectat pentru testul tehnic, vei fi informat de acest lucru pe email și ți se vor comunica tehnologiile disponibile pentru testare."
     ]
@@ -262,7 +321,9 @@
   {
     "tag": "grafica",
     "patterns": [
-      "Pe viitor vor exista locuri de internship pentru grafică 3D/2D"
+      "pe viitor vor exista locuri de internship pentru grafică 3D/2D",
+      "va fi si internship pentru grafica",
+      "se poate aplica la internship pentru grafica"
     ],
     "responses": [
       "Există posibilitatea de a include în viitor și locuri pentru grafică 3D/2D, și vom informa întreaga comunitate ASSIST dacă se va întâmpla acest lucru."
@@ -273,7 +334,8 @@
     "patterns": [
       "ce poate sa-mi ofere un internship la assist",
       "ce o sa invat acolo",
-      "daca o sa fiu ales, cu ce o sa plec din acest internship"
+      "daca o sa fiu ales, cu ce o sa plec din acest internship",
+      "la ce ma ajuta internshipul"
     ],
     "responses": [
       "O experiență care te-ar ajuta să obții cu mai multă ușurință un job în domeniu; lucru in echipă; dezvoltarea unor skill-uri pe care le deții deja sau a unor skill-uri noi; oportunitatea de a primi ajutor și susținere din partea unor mentori cu multă experiență în domeniu.",
@@ -282,7 +344,11 @@
   },
   {
     "tag": "alegere",
-    "patterns": ["de ce sa aleg assist si nu alta companie de software"],
+    "patterns": [
+      "de ce sa aleg assist si nu alta companie de software",
+      "de ce assist",
+      "de ce nu alta companie"
+    ],
     "responses": [
       "Pentru că suntem o companie de succes din Suceava care oferă multiple oportunități studenților USV, care se implică în comunitate și care are o cultură inclusivă."
     ]
@@ -303,17 +369,12 @@
   {
     "tag": "admitere",
     "patterns": [
-      "cunostintele pe care le dobandesc la acest internship ma vor ajuta la admiterea de la facultate"
+      "cunostintele pe care le dobandesc la acest internship ma vor ajuta la admiterea de la facultate",
+      "ma ajuta internshipul la facultate",
+      "ma ajuta cunostintele din internhip la admitere"
     ],
     "responses": [
       "În funcție de limbajul cu care vei lucra pe parcursul internship-ului, există o posibilitate mai mică sau mai mare să te ajute cunoștințele dobândite la admiterea de la facultate."
-    ]
-  },
-  {
-    "tag": "informare_selectie",
-    "patterns": ["cum aflu daca am fost selectionat"],
-    "responses": [
-      "Pe perioada etapelor de selectie vom tine legatura cu tine prin email. Prin urmare vei fi informat prin email daca ai fost selectat sau nu."
     ]
   },
   {
@@ -327,21 +388,30 @@
   },
   {
     "tag": "oportunitati",
-    "patterns": ["pot aplica pentru mai multe oportunitati de internship"],
+    "patterns": [
+      "pot aplica pentru mai multe oportunitati de internship",
+      "de cate ori pot participa la internship"
+    ],
     "responses": [
       "Poți aplica pentru mai multe oportunități de internship. De asemenea, ai posibilitatea să participi la concursurile organizate de ASSIST Software pentru studenți: Tech Challenge, Coding Challenge, Best Innovative Minds, despre care poți afla urmărind paginile noastre de social media."
     ]
   },
   {
     "tag": "plata",
-    "patterns": ["internshipurile oferite sunt platite"],
+    "patterns": [
+      "internshipurile oferite sunt platite",
+      "voi fi platit la internship",
+      "se platesc internshipurile"
+    ],
     "responses": ["O parte din internship-uri sunt plătite."]
   },
   {
     "tag": "nimic",
     "patterns": [
       "daca nu stiu nimic despre software",
-      "nu sunt la o facultate in domeniu dar sunt pasionat de acest domeniu. de unde pot incepe"
+      "nu sunt la o facultate in domeniu dar sunt pasionat de acest domeniu. de unde pot incepe",
+      "cum pot incepe",
+      "primii pasi in software"
     ],
     "responses": [
       "Dacă nu știi nimic despre software, poți începe prin a studia bazele programării, structuri de date, algoritmi și baze de date. Apoi poți folosi resursele noastre de studiu pentru a studia un limbaj pe care dorești sa îl aprofundezi. Resursele noastre sunt accesibile la adresa https://assist-software.net/learning-resources."
@@ -349,7 +419,11 @@
   },
   {
     "tag": "engleza",
-    "patterns": ["Este limba engleză un must-have în industrie"],
+    "patterns": [
+      "este limba engleză un must-have în industrie",
+      "trebuie sa stiu engleza",
+      "ar trebui sa invat engleza"
+    ],
     "responses": [
       "Sunt necesare cunoștinte bune de limbă engleză pentru a avea succes în industria software."
     ]
@@ -363,7 +437,10 @@
   },
   {
     "tag": "colegi",
-    "patterns": ["cati colegi voi avea"],
+    "patterns": [
+      "cati colegi voi avea",
+      "cat de mare este echipa din care voi face parte"
+    ],
     "responses": [
       "La internship-ul de grup vei avea o echipă de maxim 12 persoane."
     ]
