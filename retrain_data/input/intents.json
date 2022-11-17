@@ -28,7 +28,15 @@
       "putem sa alegem daca internshipul sa fie online sau offline",
       "selectia pentru internship se face si online",
       "selecția pentru internship se poate face și online",
-      "interviul pentru internship se poate face online"
+      "interviul pentru internship se poate face online",
+      "procesul de selectie se desfasoara online",
+      "internshipul se desfasoara online sau offline",
+      "selectia pentru internship se desfasoara online sau offline",
+      "selectia pentru internship se desfasoara online sau la sediul ASSIST",
+      "internshipurile se desfasoara la sediul ASSIST",
+      "unde se desfasoara internshipul",
+      "care este locatia internshipului",
+      "unde are loc internshipul"
     ],
     "responses": ["Internship-urile se desfășoară la sediul ASSIST."]
   },
@@ -42,7 +50,8 @@
       "care este costul",
       "trebui sa platim",
       "internshipul este gratuit",
-      "care sunt costurile"
+      "care sunt costurile",
+      "care e costul internshipului"
     ],
     "responses": [
       "Internship-urile nu prezintă nici un cost din partea participanților."
@@ -60,7 +69,16 @@
       "trebuie sa fiu student ca sa aplic",
       "trebuie sa fiu student",
       "trebuie sa fiu neaparat student",
-      "care este candidatul ideal"
+      "care este candidatul ideal",
+      "daca sunt elev ma pot inscrie la internship",
+      "elevii se pot inscrie la internship",
+      "studentii se pot inscrie la internship",
+      "pot aplica studenti de la orice facultate",
+      "ce conditii trebuie sa indeplinesc",
+      "care sunt conditiile pentru participare",
+      "care sunt condițiile pentru participare",
+      "cine se poate inscrie",
+      "cine se poate inscrie la internship"
     ],
     "responses": [
       "Pot aplica elevi ce au susținut examenul de bacalaureat, studenți la orice specializare și persoane ce doresc să se reorienteze din punct de vedere profesional."
@@ -117,7 +135,9 @@
       "am vazut ca intershipul este pentru studenti si persoane ce vor sa-si schimbe cariera, cum este cazul meu in care vreau sa-mi schimb cariera, ar trebui sa astept pana in iulie, august pentru a putea incepe",
       "schimbare cariera",
       "daca vreau sa schimb cariera cum ar trebui sa procedez",
-      "pot veni la internship daca momentan lucrez in alt domeniu"
+      "pot veni la internship daca momentan lucrez in alt domeniu",
+      "reorientare profesionala",
+      "Participare la internship pentru reorientare profesionala"
     ],
     "responses": [
       "Te sfatuim sa aplici pentru internship in perioada 01 ianuarie - 28 februarie, pentru a putea fi evaluat. Daca vei fi selectat vei avea timp pentru studierea materialelor oferite de noi pana sa inceapa internshipul de grup."
@@ -148,7 +168,9 @@
       "pot participa la mai multe sesiuni de internship",
       "cate internshipuri pot urma",
       "la cate internshipuri pot participa",
-      "pot participa de mai multe ori la internship"
+      "pot participa de mai multe ori la internship",
+      "de cate ori pot fi admis la internship",
+      "De cate ori pot participa la internship"
     ],
     "responses": [
       "Ideal este ca după participarea la unul sau două internship-uri, să se ajungă la o concluzie în privința unui posibil viitor in companie."
@@ -169,7 +191,9 @@
       "perioada internship individual",
       "perioada internship de grup",
       "ce durata are internshipul",
-      "care e durata"
+      "care e durata",
+      "cat dureaza internshipul",
+      "cand se desfasoara internshipul"
     ],
     "responses": [
       "Internship-urile de grup au durata de două săptămâni și 4 zile și se desfașoară două sesiuni, una în iulie iar cealaltă în august. Internship-urile individuale au durata de o lună și se pot desfășura pe tot parcursul anului."
@@ -199,7 +223,10 @@
       "este acelasi proiect in fiecare an",
       "voi avea posibilitatea sa imi aleg proiectul la care sa lucrez",
       "pe ce fel de proiecte voi lucra",
-      "pot alege proiectul la care lucrez"
+      "pot alege proiectul la care lucrez",
+      "ce voi face la internship",
+      "cum se desfasoara internshipul",
+      "ce voi invata la internship"
     ],
     "responses": [
       "Participanții vor lucra la un proiect de învățare creat special pentru internship.",
@@ -513,7 +540,10 @@
       "cum ma pot inscrie",
       "ne trimiteti mail cu actele de care avem nevoie pentru inscriere la internship",
       "ce documente sunt necesare pentru inscriere",
-      "ce acte sunt necesare pentru inscriere"
+      "ce acte sunt necesare pentru inscriere",
+      "Unde aplic",
+      "Cum pot aplica",
+      "Cum pot aplica pentru internship"
     ],
     "responses": [
       "Poți aplica la internship prin completarea unui formular de înscriere disponibil la adresa https://assist-software.net/internship.",
