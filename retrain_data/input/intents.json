@@ -9,10 +9,12 @@
       "ce fel de internshipuri sunt",
       "cand se desfasoara internshipurile individuale",
       "când se desfășoară internshipurile individuale",
-      "când se desfășoară internshipurile de grup"
+      "când se desfășoară internshipurile de grup",
+      "ce tipuri de internshipuri sunt",
+      "cand se desfasoara internshipul individual"
     ],
     "responses": [
-      "Internship-ul individual are loc pe tot parcursul anului. Internship-ul de grup are loc doar pe parcursul lunilor iulie si august, structurate in doua sesiuni. "
+      "Internship-ul individual are loc pe tot parcursul anului. Internship-ul de grup are loc doar pe parcursul lunilor iulie si august, structurate in doua sesiuni."
     ]
   },
   {
@@ -78,7 +80,8 @@
       "care sunt conditiile pentru participare",
       "care sunt condițiile pentru participare",
       "cine se poate inscrie",
-      "cine se poate inscrie la internship"
+      "cine se poate inscrie la internship",
+      "pot aplica daca nu sunt din domeniul it"
     ],
     "responses": [
       "Pot aplica elevi ce au susținut examenul de bacalaureat, studenți la orice specializare și persoane ce doresc să se reorienteze din punct de vedere profesional."
@@ -93,7 +96,8 @@
       "care sunt indatoririle mele",
       "indatoriri",
       "responsabilitati",
-      "ce trebuie sa fac daca sunt acceptata"
+      "ce trebuie sa fac daca sunt acceptata",
+      "ce trebuie sa fac pentru a fi acceptat la un internship"
     ],
     "responses": [
       "Cele mai importante responsabilități a celor selectați pentru internship sunt: parcurgerea materialelor de studiu oferite de noi, menținerea unei linii de comunicare cu noi, participarea în mod activ și colaborativ la internship."
@@ -193,7 +197,10 @@
       "ce durata are internshipul",
       "care e durata",
       "cat dureaza internshipul",
-      "cand se desfasoara internshipul"
+      "cand se desfasoara internshipul",
+      "cat va dura internshipul",
+      "cat dureaza internshipul de grup",
+      "cand incepe internshipul de grup"
     ],
     "responses": [
       "Internship-urile de grup au durata de două săptămâni și 4 zile și se desfașoară două sesiuni, una în iulie iar cealaltă în august. Internship-urile individuale au durata de o lună și se pot desfășura pe tot parcursul anului."
@@ -206,7 +213,8 @@
       "care este data de inceput a internshipului",
       "care este data de inceput a internshipului de grup",
       "cand incepe",
-      "cand incepe internshipul"
+      "cand incepe internshipul",
+      "in ce perioada se va desfasura internshipul de grup"
     ],
     "responses": [
       "Pentru internship-urile de grup nu am stabilit exact datele, dar în mod normal prima sesiune are loc în luna iulie iar a doua în luna august."
@@ -226,7 +234,9 @@
       "pot alege proiectul la care lucrez",
       "ce voi face la internship",
       "cum se desfasoara internshipul",
-      "ce voi invata la internship"
+      "ce voi invata la internship",
+      "ce tehnologii se folosesc la internship",
+      "ce tehnologii se vor folosi la internship"
     ],
     "responses": [
       "Participanții vor lucra la un proiect de învățare creat special pentru internship.",
@@ -288,7 +298,8 @@
       "ce rezultate asteptati de la un student in perioada internshipului",
       "imi puteți da un sfat cum sa ma pregătesc pentru acest internship ca sa pot beneficia 100% de cunoștințele și experienta care mi se oferă",
       "care sunt asteptarile de la un student la internship",
-      "ce asteptari aveti de la studenti"
+      "ce asteptari aveti de la studenti",
+      "cum ma pot pregati pentru internshipul de grup"
     ],
     "responses": [
       "Cele mai importante atribuții ale unui participant la internship ar fi lucrul în echipă, perseverența, o evoluție vizibilă.",
@@ -526,7 +537,8 @@
     "tag": "colegi",
     "patterns": [
       "cati colegi voi avea",
-      "cat de mare este echipa din care voi face parte"
+      "cat de mare este echipa din care voi face parte",
+      "care e numarul maxim de studenti selectati pentru internship"
     ],
     "responses": [
       "La internship-ul de grup vei avea o echipă de maxim 12 persoane."
